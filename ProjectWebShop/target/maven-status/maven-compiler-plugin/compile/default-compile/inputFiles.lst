@@ -1,0 +1,12 @@
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/servlets/LogoutServlet.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/io/ReadProducts.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/servlets/LoginServlet.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/servlets/CartServlet.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/exeption/WebShopException.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/servlets/WebShopServlet.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/servlets/DeleteProductServlet.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/model/Product.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/servlets/AddProductServlet.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/io/WriteProducts.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/servlets/EditProductServlet.java
+/home/osboxes/user/apache-tomcat-9.0.68/webapps/qqqq/src/main/java/webShop/model/ShoppingCart.java

@@ -1,0 +1,17 @@
+<web-app>
+	<!-- включает подробные сообщения об ошибках и страницу debug -->
+	
+	<context-param>
+		<param-name>debug</param-name>
+		<param-value>true</param-value>
+	</context-param>
+
+
+	<!-- полный путь к файлу БД -->
+	
+	<servlet>
+		<servlet-name>webShop</servlet-name>
+		<servlet-class>webShop.WebShopServlet</servlet-class>
+	</servlet>
+	
+</web-app>

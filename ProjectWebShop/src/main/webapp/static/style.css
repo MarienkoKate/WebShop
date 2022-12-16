@@ -1,0 +1,123 @@
+@charset "UTF-8";
+
+body {
+	background-image: url(background.jpg);
+	text-align: center;
+	background-size: 100%;
+	font-family: Courier New;
+	font-size: 14px;
+	background-attachment: fixed;
+}
+
+.button {
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  width: 140px;
+  height: 90px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 30px 20px;
+  font-size: 15px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #484648;
+  background: #e6e4fc;
+  box-shadow: 0 8px 15px rgba(0,0,0,.1);
+  transition: .3s;
+}
+.button:hover {
+  background: #484648;
+  text-align: center;
+  box-shadow: 0 15px 20px rgba(0,0,0,.4);
+  color: #e6e4fc;
+  transform: translateY(-7px);
+}
+
+.littleButton{
+  text-decoration: none;
+  outline: none;
+  display: inline-block;
+  width: 70px;
+  height: 45px;
+  line-height: 20px;
+  border-radius: 20px;
+  margin: 15px 10px;
+  font-size: 7px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #484648;
+  background: #e6e4fc;
+  box-shadow: 0 4px 7px rgba(0,0,0,.1);
+  transition: .3s;
+}
+.littleButton:hover {
+  background: #484648;
+  text-align: center;
+  box-shadow: 0 7px 10px rgba(0,0,0,.4);
+  color: #e6e4fc;
+  transform: translateY(-7px);
+}
+
+
+input {
+	outline:none;
+}
+
+.heading {
+  background: #484648;
+  text-align: center;
+  font-family: Courier New;
+  border : 1px solid #888;
+  color: #e6e4fc;
+  font-size: 2.5em;
+  font-weight: normal;
+  padding: 10px 40px;
+  display: block;
+  margin: 0px 20px;
+  line-height: 2;
+}
+
+.littleHeading {
+  color: #484648; 
+  font-family: Courier New; 
+  font-size: 32px; 
+  font-weight: 800; 
+  line-height: 72px; 
+  margin: 0 0 5px; 
+  text-align: center; 
+  text-transform: uppercase;
+}
+
+.productBox{
+	margin: 10px auto;
+	padding: 5px;
+	text-align: center;
+	width: 60%;
+	height: 60%;
+	border : 1px solid #888;
+	background: #e6e4fc;
+	color: #484648;
+	outline:none;
+	resize: none;
+}
+
+.productDescription{
+	background: white;
+	color: #484648;
+	border: 1px solid #ccc; 
+    width: 85%;
+    margin: 5px;
+    box-sizing: content-box;
+    font-family: Courier New;
+    outline:none;
+    resize: none;
+}
+
+.colorForText{
+	color: #484648;
+}

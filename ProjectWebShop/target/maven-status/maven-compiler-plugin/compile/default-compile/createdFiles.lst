@@ -1,0 +1,15 @@
+webShop/model/Product$2.class
+webShop/model/Product$1.class
+webShop/servlets/LoginServlet.class
+webShop/servlets/CartServlet.class
+webShop/model/Product.class
+webShop/servlets/DeleteProductServlet.class
+webShop/servlets/WebShopServlet.class
+webShop/servlets/AddProductServlet.class
+webShop/model/Product$3.class
+webShop/servlets/LogoutServlet.class
+webShop/exception/WebShopException.class
+webShop/model/ShoppingCart.class
+webShop/servlets/EditProductServlet.class
+webShop/io/ReadProducts.class
+webShop/io/WriteProducts.class
